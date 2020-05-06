@@ -10,5 +10,3 @@ int main() {
     printf("The average of 5, 6, 7 and 8 is pretty cool: %.4f\n", result);
     return 0;
 }
-
-# Changed the numbers to 5-8, added coolness
