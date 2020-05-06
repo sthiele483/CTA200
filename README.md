@@ -10,3 +10,4 @@ The local git repository is in /home/sthiele/Assign1/CTA200
 
 I assumed the files were main.c as the main program, average.c as a functional code, and average.h as an include file.
 
+The history.txt file is a bit of a mess because I had to redo the assignment multiple times to fix the 403 error so files were duplicated and such. However everything got sorted out in the end!
