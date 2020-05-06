@@ -1,0 +1,300 @@
+  691  ls
+  692  cd Assign1
+  693  ls
+  694  cd CTA200
+  695  ls
+  696  git init
+  697  echo "*.o" > .gitignore
+  698  git add README.md LICENSE
+  699  git status
+  700  git commit -m "README and LICENSE files"
+  701  git log
+  702  git remote add origin https://github.com/sthiele483/CTA200.git
+  703  cat .git/config
+  704  git add main.c average.c average.h Makefile
+  705  git status
+  706  git commit -m ".c and .h files and Makefile"
+  707  git log
+  708  git remote add origin https://github.com/sthiele483/CTA200.git
+  709  cat .git/config
+  710  git push --set-upstream origin master
+  711  git remote -v
+  712  git remote set-url origin https://github.com/sthiele483/CTA200.git
+  713  git push --set-upstream origin master
+  714  git remote set-url origin https://github.com/sthiele483/CTA200.git
+  715  pwd
+  716  git push --set-upstream origin master
+  717  cd
+  718  ls
+  719  cd repos
+  720  cd
+  721  cd repos
+  722  ls
+  723  rm CTA200.git
+  724  cd
+  725  rm -rf repos
+  726  mkdir -p repos/CTA200.git
+  727  cd repos/CTA200.git
+  728  git init --bare
+  729  cd
+  730  cd Assign1
+  731  ls
+  732  cd CTA200
+  733  ls
+  734  git push --set-upstream origin master
+  735  cd
+  736  ls
+  737  rm history.txt
+  738  cd Assign1
+  739  ls
+  740  rm CTA200
+  741  rm -rf CTA200
+  742  cd
+  743  cp CTA200 /Assign1
+  744  cp -av CTA200 /Assign1
+  745  cp -av CTA200 /Assign1/
+  746  cp -av /home/sthiele/CTA200 /home/stthiele/Assign1
+  747  cp -av /home/sthiele/CTA200 /home/sthiele/Assign1
+  748  ls
+  749  cd Assign1/CTA200
+  750  ls
+  751  cd
+  752  rm -rf repos
+  753  mkdir -p repos/CTA200.git
+  754  cd repos/CTA200.git
+  755  git init --bare
+  756  cd
+  757  cd Assign1/CTA200
+  758  git init
+  759  git remote add origin https://github.com/sthiele483/CTA200.git
+  760  git add Makefile main.c average.c average.h README.md LICENSE
+  761  git status
+  762  git commit -m "All files"
+  763  git log
+  764  cat .git/config
+  765  gitk
+  766  ls
+  767  cd
+  768  ls
+  769  rm -rf Assign1
+  770  rm -rf repos
+  771  ls
+  772  cd
+  773  ls
+  774  cd CTA200
+  775  ls
+  776  vim README.md
+  777  vim LICENSE
+  778  vim average.c
+  779  vim average.h
+  780  vim main.c
+  781  vim Makefile
+  782  cd
+  783  nano CTA200H
+  784  ls
+  785  mkdir CTA200H
+  786  cd CTA200H
+  787  vim main.c
+  788  vim average.c
+  789  vim average.h
+  790  cd
+  791  gitt config --global user.name "sthiele@483"
+  792  git config --global user.name "sthiele@483"
+  793  git config --global user.email sthiele@shaw.ca
+  794  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  795  mkdir repos/CTA200.git
+  796  mkdir repos
+  797  cd repos
+  798  mkdir CTA200.git
+  799  cd CTA200.git
+  800  git init --bare
+  801  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  802  git remote -v
+  803  git remote add origin https://github.com/sthiele483/CTA200.git
+  804  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  805  git remote -v
+  806  cd CTA200.git
+  807  ls
+  808  cd ..
+  809  ls
+  810  cd CTA200.got
+  811  cd CTA200.gt
+  812  cd CTA200.git
+  813  git init --bare
+  814  cd
+  815  ls
+  816  mkdir Assign1
+  817  cd Assign1
+  818  mkdir CTA200
+  819  cd CTA200
+  820  git init
+  821  git remote -v
+  822  git remote add origin https://github.com/sthiele483/CTA200.git
+  823  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  824  cd ..
+  825  ls
+  826  rm -rf CTA200
+  827  mkdir CTA200
+  828  cd CTA200
+  829  cp /sthiele/CTA200H/main.c /sthiele/Assign1/CTA200
+  830  cp /home/sthiele/CTA200H/main.c /sthiele/Assign1/CTA200
+  831  cd
+  832  cp /home/sthiele/CTA200H/main.c /sthiele/Assign1/CTA200
+  833  ls
+  834  cd Assign1
+  835  ls
+  836  cd
+  837  cp /home/sthiele/CTA200H/main.c /home/sthiele/Assign1/CTA200
+  838  cp /home/sthiele/CTA200H/average.c /home/sthiele/Assign1/CTA200
+  839  cp /home/sthiele/CTA200H/average.h /home/sthiele/Assign1/CTA200
+  840  cd Assign1/CTA200
+  841  pwd
+  842  vim README.md
+  843  vim LICENSE
+  844  vim README.md
+  845  git remote add origin https://github.com/sthiele483/CTA200.git
+  846  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  847  cd
+  848  cd repos
+  849  ls
+  850  cd CTA200.git
+  851  git init --bare
+  852  git remote -v
+  853  cd
+  854  cd Assign1
+  855  ls
+  856  cd CTA200
+  857  ls
+  858  git init
+  859  git remote add origin https://github.com/sthiele483/CTA200.git
+  860  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  861  git add README.md LICENSE
+  862  git status
+  863  git commit -m "Adding README and LICENSE files"
+  864  git log
+  865  ls
+  866  vim Makefile
+  867  make
+  868  vim Makefile
+  869  make
+  870  vim Makefile
+  871  ls
+  872  make
+  873  vim Makefile
+  874  make
+  875  vim Makefile
+  876  make
+  877  vim average.c
+  878  mske
+  879  make
+  880  vim average.h
+  881  make
+  882  vim Makefile
+  883  make
+  884  vim average.h
+  885  vim main.c
+  886  vim average.c
+  887  make
+  888  vim average.c
+  889  make
+  890  vim average.h
+  891  vim main.c
+  892  make
+  893  vim Makefile
+  894  make
+  895  vim Makefile
+  896  make
+  897  vim average.c
+  898  make
+  899  ls
+  900  ./average
+  901  rm average
+  902  rm main.o
+  903  rm average.o
+  904  ls
+  905  git add average.c main.c average.h Makefile
+  906  git status
+  907  git commit -m ".c and .h files and Makefile"
+  908  git log
+  909  git remote add origin https://github.com/sthiele483/CTA200.git
+  910  cat .git/config
+  911  git push --set-upstream origin master
+  912  git push -u origin master
+  913  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  914  git remote -v
+  915  git push -u origin mastter
+  916  git push -u origin master
+  917  git remote set-url origin "https://sthiele483@github.com/sthiele483/repos/CTA200.git"
+  918  git remote -v
+  919  git push -u origin master
+  920  git remote add origin https://github.com/sthiele483/repos/CTA200.git
+  921  git remote set-url origin "https://sthiele483@github.com/sthiele483/repos/CTA200.git"
+  922  git push -u origin master
+  923  git remote add origin https://github.com/sthiele483/CTA200.git
+  924  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  925  cd
+  926  cd repos/CTA200.git
+  927  git remote add origin https://github.com/sthiele483/CTA200.git
+  928  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  929  git init --bare
+  930  cd
+  931  cd Assign1/CTA200
+  932  git push -u origin master
+  933  git status
+  934  git log
+  935  git push -u origin master
+  936  pwd
+  937  cd CTA200
+  938  ls
+  939  git initt
+  940  git init
+  941  ls
+  942  pwd
+  943  echo "*.o" > .gitignore
+  944  ls
+  945  git remote -v
+  946  cd
+  947  cd repos
+  948  ls
+  949  cd CTA200.git
+  950  ls
+  951  git init --bare
+  952  cd
+  953  cd Assign1/CTA200
+  954  ls
+  955  git status
+  956  git log
+  957  git push -u origin master
+  958  git remote add origin https://github.com/sthiele483/CTA200.git
+  959  git remote set-url origin "https://sthiele483@github.com/sthiele483/CTA200.git"
+  960  git remote -v
+  961  git push -u origin master
+  962  gitk
+  963  ls
+  964  vim main.c
+  965  make
+  966  /.average
+  967  ./average
+  968  ls
+  969  rm averrage
+  970  rm average
+  971  rm average.o
+  972  rm main.o
+  973  ls
+  974  vim main.c
+  975  git add main.c
+  976  git status
+  977  git commit -m "Changed main.c to different numbers to average"
+  978  git push -u origin mastter
+  979  git push -u origin master
+  980  gitk
+  981  tail -10 history > history.txt
+  982  history | tail -10 > history.txt
+  983  ls
+  984  vim history.txtt
+  985  vim history.txt
+  986  rm history.txt
+  987  history | tail -500 > history.txt
+  988  vim history.txt
+  989  history
+  990  history | tail -300 > history.txt
